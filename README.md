@@ -18,18 +18,22 @@ Clone o repositório:
 
 Bash
 git clone https://github.com/mufasa-dev/WeddingInvitation.git
+
 Entre na pasta:
 
 Bash
 cd nome-do-projeto
+
 Instale as dependências:
 
 Bash
 npm install
+
 Inicie o servidor de desenvolvimento:
 
 Bash
 npm run dev
+
 Abra o navegador em http://localhost:5173 para ver o resultado.
 
 ## 🛠️ Tecnologias
