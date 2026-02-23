@@ -8,6 +8,8 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+	declare module 'bootstrap/dist/js/bootstrap.bundle.min.js';
 }
+
 
 export {};
